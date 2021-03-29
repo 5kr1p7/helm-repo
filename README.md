@@ -1,4 +1,4 @@
-# 5kr1p's Helm repository
+# 5kr1p7's Helm repository
 
 Add repository: `helm3 repo add 5kr1p7 https://5kr1p7.github.io/helm-repo/`
 
