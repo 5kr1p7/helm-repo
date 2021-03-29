@@ -1,0 +1,15 @@
+apiVersion: v1
+entries:
+  laravel:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2021-03-29T10:56:27.613667116+03:00"
+    description: Laravel app
+    digest: 705beb7fd83449eadd27c3a68c6ac6a8af56117e79e79749023f3b5d9d27d79b
+    icon: https://styles.redditmedia.com/t5_2uakt/styles/communityIcon_fmttas2xiy351.png
+    name: laravel
+    type: application
+    urls:
+    - https://5kf1p7.github.io/helm-repo/laravel-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-03-29T10:56:27.61280441+03:00"
