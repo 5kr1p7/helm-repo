@@ -3,7 +3,7 @@ entries:
   infogate:
   - apiVersion: v2
     appVersion: 0.0.3
-    created: "2021-03-30T17:06:27.340956027+03:00"
+    created: "2021-03-30T17:08:36.914346599+03:00"
     description: Infogate for LOYA
     digest: 1e6a90eb9fbe0b6da08d38f6378c45db42b22312551c225832dfe76808c1a80e
     name: infogate
@@ -14,7 +14,7 @@ entries:
   laravel:
   - apiVersion: v2
     appVersion: 0.1.0
-    created: "2021-03-30T17:06:27.341688732+03:00"
+    created: "2021-03-30T17:08:36.915098003+03:00"
     description: Laravel app
     digest: 705beb7fd83449eadd27c3a68c6ac6a8af56117e79e79749023f3b5d9d27d79b
     icon: https://styles.redditmedia.com/t5_2uakt/styles/communityIcon_fmttas2xiy351.png
@@ -23,15 +23,4 @@ entries:
     urls:
     - https://5kr1p7.github.io/helm-repo/laravel-0.1.0.tgz
     version: 0.1.0
-  - apiVersion: v2
-    appVersion: 0.1.0
-    created: "2021-03-30T17:06:27.342466437+03:00"
-    description: Laravel app
-    digest: 705beb7fd83449eadd27c3a68c6ac6a8af56117e79e79749023f3b5d9d27d79b
-    icon: https://styles.redditmedia.com/t5_2uakt/styles/communityIcon_fmttas2xiy351.png
-    name: laravel
-    type: application
-    urls:
-    - https://5kr1p7.github.io/helm-repo/repo/laravel-0.1.0.tgz
-    version: 0.1.0
-generated: "2021-03-30T17:06:27.339638519+03:00"
+generated: "2021-03-30T17:08:36.913448093+03:00"
